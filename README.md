@@ -65,4 +65,4 @@ Telegram频道传送门：整合热门 Telegram 频道，覆盖资讯、娱乐�
 
 「黑料大事记」详细梳理娱乐圈与网红界的重大爆料事件，追踪每个事件的起伏与发展，提供真实可靠的内容和清晰的时间线，帮助用户深入了解舆论风暴的全过程。
 
-[Canonical link](）
+[Canonical link](https://github.com/mfeng20250623/mfeng9）
